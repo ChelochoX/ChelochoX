@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📊 Estadísticas de GitHub
+ 
+![Tobias GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChelochoX&show_icons=true&theme=radical&hide_border=true)
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChelochoX&layout=compact&theme=radical)
+ 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChelochoX&theme=radical&hide_border=true)
