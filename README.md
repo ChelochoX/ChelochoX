@@ -14,7 +14,7 @@ Con experiencia tanto en el desarrollo **Full Stack** como en el área de **infr
 
 ---
 
-## 📂 Proyectos destacados
+## 📂 Proyectos personales destacados
 
 - 🛒 **[TuVendedor](https://tuvendedor.com.py/)**  
   Plataforma de ventas para rubros como motos, vehículos y terrenos.  
